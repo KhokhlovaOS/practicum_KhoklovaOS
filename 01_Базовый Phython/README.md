@@ -8,4 +8,5 @@
 **Навыки и инструменты**   
 Pandas, Python.   
 Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка данных.
-[![Actions Status](https://github.com/RobDWaller/csp-generator/workflows/Build%20and%20Test/badge.svg)](https://github.com/RobDWaller/csp-generator/actions)
+
+[![Actions Status](https://github.com/KhokhlovaOS/csp-generator/workflows/Build%20and%20Test/badge.svg)](https://github.com/KhokhlovaOS/csp-generator/actions)
