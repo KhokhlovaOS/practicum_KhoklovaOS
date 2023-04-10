@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/
-01_Базовый Phython/Build%20and%20Test/badge.svg)](https://github.com/RobDWaller/csp-generator/actions)
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/01_Базовый Phython/Build%20and%20Test/badge.svg(https://github.com/RobDWaller/cspgenerator/actions)
 ## Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов Москва и Санкт-Петербург.
 **Задачи проекта**   
 На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её инструментов необходимо проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга относительно выбора музыки. 
