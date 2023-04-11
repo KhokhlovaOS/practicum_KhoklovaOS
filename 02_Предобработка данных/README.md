@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Исследование надёжности заёмщиков — анализ банковских данных.
 **Задачи проекта**  
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок. 
