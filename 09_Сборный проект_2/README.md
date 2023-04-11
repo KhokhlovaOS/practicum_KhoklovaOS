@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Анализ пользовательского поведения в мобильном приложении.
 **Задачи проекта**   
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.
