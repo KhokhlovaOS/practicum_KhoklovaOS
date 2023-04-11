@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/new/main?filename=.github%2Fworkflows%2Fblank.yml&workflow_template=ci%2Fblank/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 
 ## Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов Москва и Санкт-Петербург.
 **Задачи проекта**   
