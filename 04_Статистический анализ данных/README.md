@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Определение выгодного тарифа для компании.
 **Задачи проекта** На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. 
 
