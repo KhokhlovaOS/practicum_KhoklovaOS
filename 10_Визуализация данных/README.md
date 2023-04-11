@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Исследования рынка общепита в Москве для принятия решения об открытии нового заведения.
 **Задачи проекта**    
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации для заказчика.
