@@ -1,3 +1,4 @@
+
 [![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Проверка гипотез по увеличению выручки в интернет-магазине. Оценка результатов A/B теста.
 **Задачи проекта**   
