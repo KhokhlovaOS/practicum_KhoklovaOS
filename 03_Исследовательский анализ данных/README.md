@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/actions/workflows/CI/badge.svg)](https://github.com/KhokhlovaOS/practicum_KhoklovaOS/CI)
 ## Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 **Задачи проекта** Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
 
